@@ -10,3 +10,7 @@
 /test/tmp/
 /test/version_tmp/
 /tmp/
+.Rproj.user
+./*.Rproj
+./.Rhistory
+./.Rproj.user
